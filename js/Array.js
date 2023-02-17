@@ -56,7 +56,14 @@ const arrayInfoUA = {
         email: 'dzewrpifzc@gmail.com',
         linkedIn: 'https://www.linkedin.com/in/reversegtlt/?originalSubdomain=ua',
         github: 'https://github.com/ReverseGTLT',
-    }
+    },
+    hobby: {
+        name: 'ХОББИ',
+        hobby0: 'Велоспорт',
+        hobby1: 'Змішанні єдиноборства',
+        hobby2: 'Музика',
+        hobby3: 'Beatbox loopstation',
+    },
 }
 
 const arrayInfoEN = {
@@ -67,7 +74,7 @@ const arrayInfoEN = {
     headerDescription:
         'I have experience in developing a website for a law firm. I am also currently developing a project for a crypto-wallet store. There is uninterrupted light and the Internet, so I will always be in touch during working hours. \n' +
         '\n' +
-        'I know the theory and in practice I have consolidated the techniques of working with various web development tools.\n' +
+        'I know the theory and in practice, I have consolidated the techniques of working with various web development tools.\n' +
         '\n' +
         'I want to apply my knowledge and continue to develop my skills in the field of web development. I will be glad to be a part of the team and bring benefit to the business.',
     experience:
@@ -101,7 +108,7 @@ const arrayInfoEN = {
     secondEducation:
         'ADDITIONAL EDUCATION',
     softSkills:
-        ['The desire to create and create',
+        ['The desire to create',
             'The ability to work as a team and for results',
             'Persistence',
             'The ability to resolve disputes',
@@ -115,5 +122,12 @@ const arrayInfoEN = {
         email: 'dzewrpifzc@gmail.com',
         linkedIn: 'https://www.linkedin.com/in/reversegtlt/?originalSubdomain=ua',
         github: 'https://github.com/ReverseGTLT',
-    }
+    },
+    hobby: {
+          name: 'HOBBY',
+          hobby0: 'Bicycle',
+          hobby1: 'Mix martial arts',
+          hobby2: 'Music',
+          hobby3: 'Beatbox loopstation',
+    },
 }

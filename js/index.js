@@ -24,6 +24,7 @@ function innerHtml(language) {
     experience.insertAdjacentHTML('beforeend', innerSecondEducation(language));
     skills.innerHTML = innerSkills();
     skills.insertAdjacentHTML('beforeend', innerSoftSkills(language));
+    skills.insertAdjacentHTML('beforeend', innerHobby(language));
 }
 
 

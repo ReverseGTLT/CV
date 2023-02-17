@@ -100,3 +100,17 @@ function innerContact(language) {
     </ul>    
     `
 }
+
+function innerHobby(language) {
+    return `
+    <h3 class="skills-hobby__title accordion">${language.hobby.name}</h3>
+    <div class="panel">
+        <ul class="skills-hobby__list">
+            <li class="skills-hobby__item">${language.hobby.hobby0}</li>
+            <li class="skills-hobby__item">${language.hobby.hobby1}</li>
+            <li class="skills-hobby__item">${language.hobby.hobby2}</li>
+            <li class="skills-hobby__item">${language.hobby.hobby3}</li>
+        </ul>
+    </div>  
+    `
+}

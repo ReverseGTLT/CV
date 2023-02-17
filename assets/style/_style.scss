@@ -39,7 +39,7 @@ ul, li {
     height: 325px;
     width: 325px;
     background-image: url('../image/photo_2023-02-17_10-39-27.jpg');
-    background-size: 425px;
+    background-size: 424px;
   }
   &__info {
     &-description {
@@ -144,6 +144,16 @@ main {
   @media only screen and (max-width: 992px) {
     border-right: 0;
     padding-right: 0;
+  }
+}
+
+.footer {
+  padding: 58px;
+  opacity: 0.7;
+  &__box {
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
   }
 }
 
