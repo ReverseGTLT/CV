@@ -238,16 +238,16 @@ function innerContact(language) {
     return `
     <ul class="skills-contact__list">
         <li class="skills-contact__item">
-            <a target="_blank" class="skills-contact__link" href="tel:${language.contact.phone}"><img src="../image/free-icon-phone-call-4041480.png" alt="phone"></a>
+            <a target="_blank" class="skills-contact__link" href="tel:${language.contact.phone}"><img src="image/free-icon-phone-call-4041480.png" alt="phone"></a>
         </li>
         <li class="skills-contact__item">
-            <a target="_blank" class="skills-contact__link" href="mailto:${language.contact.email}"><img src="../image/free-icon-mail-9628495.png" alt="phone"></a>
+            <a target="_blank" class="skills-contact__link" href="mailto:${language.contact.email}"><img src="image/free-icon-mail-9628495.png" alt="phone"></a>
         </li>
         <li class="skills-contact__item">
-            <a target="_blank" class="skills-contact__link" href="${language.contact.linkedIn}"><img src="../image/free-icon-linkedin-665212.png" alt="phone"></a>
+            <a target="_blank" class="skills-contact__link" href="${language.contact.linkedIn}"><img src="image/free-icon-linkedin-665212.png" alt="phone"></a>
         </li>
         <li class="skills-contact__item">
-            <a target="_blank" class="skills-contact__link" href="${language.contact.github}"><img src="../image/free-icon-github-2564671.png" alt="phone"></a>
+            <a target="_blank" class="skills-contact__link" href="${language.contact.github}"><img src="image/free-icon-github-2564671.png" alt="phone"></a>
         </li>
     </ul>    
     `
