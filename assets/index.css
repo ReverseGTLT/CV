@@ -84,7 +84,11 @@ ul, li {
   border-radius: 50%;
   height: 325px;
   width: 325px;
+<<<<<<< HEAD
   background-image: url('../image/photo_2023-02-17_10-39-27.jpg');
+=======
+  background-image: url('../image/photo_2023-02-17_10-39-27.jpg');
+>>>>>>> bf085515dd3ed41d1eb22eaee54b26ba9227af20
   background-size: 425px;
 }
 .header__info-description {
