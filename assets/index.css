@@ -79,12 +79,12 @@ ul, li {
   }
 }
 .header .logo {
+  background-image: url('../image/photo_2023-02-17_10-39-27.jpg');
   background-repeat: no-repeat;
   background-position: -76px -138px;
   border-radius: 50%;
   height: 325px;
   width: 325px;
-  background-image: url('../image/photo_2023-02-17_10-39-27.jpg');
   background-size: 425px;
 }
 .header__info-description {
