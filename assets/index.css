@@ -79,22 +79,12 @@ ul, li {
   }
 }
 .header .logo {
-<<<<<<< HEAD
   background-image: url('../image/photo_2023-02-17_10-39-27.jpg');
-=======
-  background-image: url("../image/photo_2023-02-17_10-39-27.jpg");
->>>>>>> 74c92d7c1e4c99aad81802f227be9e88be2e7ebd
   background-repeat: no-repeat;
   background-position: -76px -138px;
   border-radius: 50%;
   height: 325px;
   width: 325px;
-<<<<<<< HEAD
-
-
-
-=======
->>>>>>> 74c92d7c1e4c99aad81802f227be9e88be2e7ebd
   background-size: 425px;
 }
 .header__info-description {
